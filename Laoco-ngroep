@@ -1,0 +1,101 @@
+<html>
+    <head>
+        <title>Laocoöngroep </title>
+        
+        <link href="style.css" rel="stylesheet" type="text/css"/>
+        
+    </head>
+    
+    <body>
+        <div>
+            <h1>Laocoöngroep</h1>
+            
+            <h2>Laocoöngroep</h2>
+            
+            <img src="http://wikikids.nl/images/thumb/1/17/Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg/400px-Laocoon_Pio-Clementino_Inv1059-1064-1067.jpg" />
+            
+              <div id="inleiding">
+                
+                <h4>Inleiding</h4>
+                  
+                  <p>De Laocoöngroep is een marmeren beeld uit de laat-hellenistische periode (350-30 v.Chr). Het beeld werd in 1506 gevonden 
+                     in een wijngaard in Rome. Het beeld is een kopie van een eerder beeld dat eerst van brons was gemaakt en is te zien in de Vaticaanse musea in Vaticaanstad.
+                     Het beeld heeft een grootte van 184 cm. Plinius, een romeinse schrijver uit de eerste eeuw na christus, beschreef het orginele bronzen beeld al voordat de kopie 
+                     in 1506 gevonden werd en prijste het beeld enorm. Volgens Plinius was het beeld gemaakt door Hagesander, Polydorus en Athenodorus.</p>
+                     
+                    
+                     
+                     <h4>Geschiedenis</h4>  
+                      <p>De lacoöngroep werd in januari 1506 gevonden onder de wijngaard van Felice de' Fredis. Paus Julius II liet het beeld naar het Vaticaan brengen waar het neergezet. 
+                      Toen het beeld gevonden werd ontbraken er een aantal stukken, het meest opvallende de rechter arm van Laocoön. De arm werd in 1906 gevonden in Rome door archeoloog Ludwig Pollak.
+                      In 1799 werd het beeld door Napoleon uit het Vaticaan gehaald en naar Parijs gebracht. Het beeld is na de nederlaag van Napoleon weer teruggezet in het Vaticaan in 1816. 
+                      </p>
+                      
+                      <h4>De mythe</h4>
+                      <p>De Laocoöngroep beeld Laocoön en zijn zonen af. In de Griekse mythologie was Laocoön een Trojaanse priester van Apollo en Poseidon. Het verhaal speelt zich af tijdens de Torjaanse
+                      oorlog. Laocoön wist dat het houten paard dat de Grieken de Trojanen cadeau gaven een val was en probeerde de Trojaanse leiders te waarschuwen. Maar de godin Athene, die zich aan had gesloten bij
+                      de kant van de Grieken, strafte Laocoön voordat hij de boodschap door kon geven door hem en zijn twee zonen te  laten verslinden door twee gigantische zeeslangen, Porces en Chariboea.
+                      Op het beeld is te zien dat een van de zonen zich los probeert te breken en toekijkt hoe zijn vader en broer aangevallen worden.</p>
+                         
+                    
+                     
+              
+              </div>
+              
+              <div id="Algemeneinformatie">
+                  
+                  <h4>Algemene informatie</h4>
+                  <ul>
+                      <li><bold>Grootte</bold>: 184cm </li>
+                      <li><bold>Locatie</bold>: Vaticaanstad, Vaticaanse musea</li>
+                      <li><bold>Makers originele beeld</bold>: Hagesander, Polydorus en Athenodorus</li>
+                      <li><bold>Gevonden in het jaar</bold>: 1506</li>
+                  </ul>
+              </div>
+
+            
+        </div>
+
+    </body>
+</html>
+
+<style>
+h1 { border-radius:10px;
+     border: 10px solid #6495Ed;
+     background-color: #BCD2EE;
+     height: 50px;
+     width: 1480px;
+     margin: auto;
+     text-align: center;
+}
+
+div { border-radius:10px;
+      border: 1px solid;
+      width: 1500px;
+      height: 1600px;
+      margin: auto;
+}
+
+img { float: right;
+}
+
+body { background-color: #C8C8C8;
+}
+
+#inleiding   { border-radius:30px;
+             border: 1px solid;
+             background-color:#B8B8B8;
+             height: 190px;
+             width: 750px;
+             float: left;
+}
+
+#Algemeneinformatie { border-radius:10px;
+                      border: 1px solid;
+                      background-color: #A0A0A0;
+                      height: 200px;
+                      width:250px;
+                      float:right;
+    
+}
+</style>
