@@ -61,8 +61,8 @@ div { background-image: url(http://www.tui.nl/p/images/header/stedentrip-rome.jp
 ul { font-size: 20px;
      border-radius: 30px;
      border: 1px solid;
-     height: 40px;
-     width: 40px;
+     height: 200px;
+     width: 200px;
      background-color: yellow;
 }
 
