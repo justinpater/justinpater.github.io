@@ -1,0 +1,71 @@
+
+<html>
+    <head>
+        <title> </title>
+        
+        <link href="style.css" rel="stylesheet" type="text/css"/>
+        
+    </head>
+    <body>
+      <div>
+          <h1>Sarcofaag van Constantina</h1>
+          
+          <h2>Sarcofaag van Constantina</h2>
+          
+          <img src="http://classconnection.s3.amazonaws.com/171/flashcards/969171/jpg/image0071323132971508.jpg"/>
+          
+          <div id="Inleiding"> 
+           <h4>Inleiding</h4>
+           
+           <p>De sarcofaag van Constantina is een sarcofaag die te zien is in het Museo Pio-Clementino in Vaticaanstad.
+              De sarcofaag bevond zich voorheen in de Mausoleo di Santa Constanza. Het werd gemaakt rond 340. Constantina 
+              was de oudste dochter van de romeinse keizer Constantijn.</p>
+            </div>
+            <h4>Constantina</h4>
+            
+            <p>Constantina werd geboren ergens tussen 307 en 317. Ze was de oudste dochter van
+               de keizer Constantijn en zijn tweede vrouw Fausta. In 335 trouwde Constantina met haar
+               neef Hannibalianus, die later werd geëxecuteerd nadat Constantijn stierf. Constantina 
+               en Hannibalianus hadden een zoon, Gallus, die later caesar van het oosten werd. In een tweede
+               huwelijk kreeg Constantina een dochter genaamd Anastasia. Constantina en haar zoon Gallus werden 
+               naar Syrië gestuurd om daar te regeren. Ze kwam niet meer terug naar Rome tot vlak voor haar
+               dood toen ze terug werd gehaald naar Rome door Constantijn II. Constantina stierf onderweg
+               aan koorts in Bithynië in 354.</p>
+          </div>
+    </body>
+</html>
+
+<style>
+h1 { border-radius: 10px;
+     border: 10px solid #6495Ed;
+     background-color: #BCD2EE;
+     height: 50px;
+     width: 1570px;
+     margin: auto;
+     text-align: center;
+}
+
+div { border-radius: 10px;
+      border: 1px solid;
+      background-color: #C8C8C8;
+      height: 2000px;
+      width: 1570px;
+      margin: auto;
+    
+}
+
+img { float:right;
+
+}
+
+body { background-color: #C8C8C8;
+}
+
+#inleiding { border-radius: 30px;
+             border: 1px solid;
+             background-color: #B8B8B8;
+             height: 190px;
+             width: 750px;
+             float: left;
+}
+</style>
